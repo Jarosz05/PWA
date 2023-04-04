@@ -9,9 +9,9 @@
     "description": "projekt",
     "icons" : [
         {
-            "src": "./img/b.jpg",
-            "sizes" : "416x416",
-            "type" :"b.jpg"
+            "src": "./img/b.png",
+            "sizes" : "512x512",
+            "type" :"b.png"
 
         }
 
