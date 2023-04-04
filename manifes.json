@@ -1,0 +1,19 @@
+{
+    "name": "Moja aplikacja ",
+    "short_name": "bj app",
+    "theme_color": "#22940f",
+    "background_color": "#22940f",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/pwa/index.html",
+    "description": "projekt",
+    "icons" : [
+        {
+            "src": "./img/b.jpg",
+            "sizes" : "416x416",
+            "type" :"b.jpg"
+
+        }
+
+    ]
+}
